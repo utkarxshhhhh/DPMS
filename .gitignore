@@ -1,0 +1,27 @@
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CodeIgniter temp directories
+application/logs/*
+!application/logs/index.html
+application/cache/*
+!application/cache/index.html
+
+# Uploads directory (user data)
+uploads/*
+!uploads/index.html
+
+# XAMPP/Local temp files
+*.tmp
+*.bak
+*.sql
+cookies.txt
+
+# Ignore backup source directories
+hospital-hospital-management-system/
+
